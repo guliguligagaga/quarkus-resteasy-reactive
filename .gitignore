@@ -1,0 +1,28 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### VS Code Config ###
+.vscode
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+target
+
+
+### debug ###
+/debug/*.lua
+/debug/*.bak
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
