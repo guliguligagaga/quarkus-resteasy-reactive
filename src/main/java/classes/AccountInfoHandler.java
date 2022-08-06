@@ -2,7 +2,6 @@ package classes;
 
 import classes.model.AccountInfo;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import io.quarkus.runtime.annotations.RegisterForReflection;
 
 import javax.inject.Inject;
 import javax.ws.rs.WebApplicationException;
