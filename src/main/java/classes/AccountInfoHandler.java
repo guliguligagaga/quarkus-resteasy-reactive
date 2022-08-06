@@ -16,7 +16,6 @@ import java.lang.annotation.Annotation;
 import java.lang.reflect.Type;
 
 @Provider
-@RegisterForReflection
 public class AccountInfoHandler implements MessageBodyReader<AccountInfo> {
 
     @Inject
